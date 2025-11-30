@@ -1,4 +1,4 @@
-package main.java.ru.dsacademy.taskmanager;
+package ru.dsacademy.taskmanager;
 
 public class TaskManagerApplication {
 }
